@@ -7,7 +7,7 @@ about:
   head: 63a9e6a
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T20:00:09Z
+  collectedAt: 2026-09-04T20:39:32Z
 timeline:
   created: 2013-06-01
   lastCommit: 2025-09-05
@@ -82,6 +82,34 @@ total:
   openIssue: 10
   commit: 154
 ---
+path: /home/runner/.x-repo/github.com/pyenv/pyenv-installer
+collectedAt: 2026-09-04T20:39:33Z
+loc:
+  Bash:
+    code: 133
+    comments: 9
+    blanks: 28
+    files: 2
+  ReStructuredText:
+    code: 85
+    comments: 0
+    blanks: 53
+    files: 1
+  Python:
+    code: 52
+    comments: 0
+    blanks: 7
+    files: 1
+  Sh:
+    code: 36
+    comments: 6
+    blanks: 9
+    files: 1
+total:
+  code: 306
+  comments: 15
+  blanks: 97
+  files: 5
 ---
 date: "2026-08-24"
 repo:
