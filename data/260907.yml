@@ -5,13 +5,13 @@ about:
   head: 63a9e6a
   archived: false
   latestVersion: ""
-  collectedAt: 2026-09-07T05:24:16Z
+  collectedAt: 2026-09-07T19:07:17Z
 timeline:
   created: 2013-06-01
   lastCommit: 2025-09-05
   lastRelease: 
 popularity:
-  star: 4134
+  star: 4135
   watcher: 73
   fork: 454
   release: 0
@@ -81,7 +81,7 @@ total:
   commit: 154
 ---
 path: /home/runner/.x-repo/github.com/pyenv/pyenv-installer
-collectedAt: 2026-09-07T05:24:17Z
+collectedAt: 2026-09-07T19:07:18Z
 loc:
   Bash:
     code: 133
@@ -186,7 +186,7 @@ checks:
       - 'Warn: 0 commits out of 25 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:24:17+00:00
+  collectedAt: 2026-09-07T19:07:18+00:00
   platform:
     darwin/arm64:
       name:  null
