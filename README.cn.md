@@ -30,8 +30,8 @@ x install pyenv-installer
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## 源代码
 
@@ -40,7 +40,7 @@ x install pyenv-installer
 
 ## 流行度
 
-- **Star**: 4,130 · **Fork**: 453 · **开放 issue**: 91 · **贡献者**: 41
+- **Star**: 4,131 · **Fork**: 453 · **开放 issue**: 91 · **贡献者**: 41
 
 ## 累计统计
 
@@ -50,12 +50,12 @@ x install pyenv-installer
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-08-28 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-07-29 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last180d | 2026-04-30 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 360d | 2025-11-01 | 0 | 1 | 0 | 2 | 1 | 1 |
-| last720d | 2024-11-06 | 0 | 4 | 0 | 4 | 5 | 5 |
+| 30d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last60d | 2026-08-29 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 90d | 2026-07-30 | 0 | 1 | 0 | 0 | 0 | 1 |
+| last180d | 2026-05-01 | 0 | 1 | 0 | 0 | 0 | 1 |
+| 360d | 2025-11-02 | 0 | 1 | 0 | 2 | 1 | 1 |
+| last720d | 2024-11-07 | 0 | 4 | 0 | 4 | 5 | 5 |
 
 ## 改进这些数据
 
@@ -66,4 +66,4 @@ pyenv-installer 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/i
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T05:56:52Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T06:16:09Z._
