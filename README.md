@@ -12,16 +12,15 @@ This tool is used to install `pyenv` and friends.
 x install pyenv-installer
 ```
 
-## Code insight
+## OpenSSF Scorecard
 
-Total: **309** lines of code across **5** files in the top 5 languages.
+Overall score: **3 / 10**
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Bash | 136 | 12 | 28 | 2 |
-| ReStructuredText | 85 | 0 | 53 | 1 |
-| Python | 52 | 0 | 7 | 1 |
-| Sh | 36 | 6 | 9 | 1 |
+Lowest-scoring checks:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
 
@@ -40,12 +39,12 @@ Total: **309** lines of code across **5** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 1 | 1 | 0 | 0 | 1 |
-| 90d | 2026-08-27 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last180d | 2026-05-29 | 0 | 1 | 1 | 0 | 0 | 1 |
-| 360d | 2025-11-30 | 0 | 1 | 1 | 1 | 1 | 1 |
-| last720d | 2024-12-05 | 0 | 4 | 1 | 4 | 5 | 5 |
+| 30d | 2026-10-27 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 1 | 1 | 0 | 0 | 1 |
+| 90d | 2026-08-28 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last180d | 2026-05-30 | 0 | 1 | 1 | 0 | 0 | 1 |
+| 360d | 2025-12-01 | 0 | 1 | 1 | 1 | 1 | 1 |
+| last720d | 2024-12-06 | 0 | 4 | 1 | 4 | 5 | 5 |
 
 ## Improve this data
 
@@ -56,4 +55,4 @@ Install metadata for pyenv-installer lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:51:42Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:39:49Z._
