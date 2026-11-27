@@ -12,15 +12,16 @@ This tool is used to install `pyenv` and friends.
 x install pyenv-installer
 ```
 
-## OpenSSF Scorecard
+## Code insight
 
-Overall score: **3 / 10**
+Total: **309** lines of code across **5** files in the top 5 languages.
 
-Lowest-scoring checks:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Token-Permissions** (-1/10) — No tokens found
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Bash | 136 | 12 | 28 | 2 |
+| ReStructuredText | 85 | 0 | 53 | 1 |
+| Python | 52 | 0 | 7 | 1 |
+| Sh | 36 | 6 | 9 | 1 |
 
 ## Source
 
@@ -39,12 +40,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 1 | 1 | 0 | 0 | 1 |
-| 90d | 2026-08-28 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last180d | 2026-05-30 | 0 | 1 | 1 | 0 | 0 | 1 |
-| 360d | 2025-12-01 | 0 | 1 | 1 | 1 | 1 | 1 |
-| last720d | 2024-12-06 | 0 | 4 | 1 | 4 | 5 | 5 |
+| 30d | 2026-10-28 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 0 | 1 | 0 | 0 | 1 |
+| 90d | 2026-08-29 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last180d | 2026-05-31 | 0 | 1 | 1 | 0 | 0 | 1 |
+| 360d | 2025-12-02 | 0 | 1 | 1 | 1 | 1 | 1 |
+| last720d | 2024-12-07 | 0 | 4 | 1 | 4 | 5 | 5 |
 
 ## Improve this data
 
@@ -55,4 +56,4 @@ Install metadata for pyenv-installer lives in the [x-cmd/install](https://github
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:39:49Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:23:59Z._
